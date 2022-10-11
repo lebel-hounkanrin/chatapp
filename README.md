@@ -5,10 +5,14 @@ This project is a simple chat application using angular and socket io
 cd nodechat 
 npm i
 nodemon
+# link
+https://github.com/lebel-hounkanrin/nodechat
 
 ## Start angular server
 cd ng-chat
 npm i
 ng serve
+# link
+https://github.com/lebel-hounkanrin/chatapp
 
 
