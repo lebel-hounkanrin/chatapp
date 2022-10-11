@@ -1,5 +1,5 @@
 # NgChat
-This is project is a chat simple chat application using angular and socket io
+This project is a simple chat application using angular and socket io
 
 ## Start node server
 cd nodechat 
